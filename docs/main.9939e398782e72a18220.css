@@ -12476,7 +12476,7 @@ html, body {
     width: 6.75rem;
     height: 2.3125rem;
     margin-right: 3.25rem;
-    background: no-repeat 50% 50% url(/assets/logo.svg);
+    background: no-repeat 50% 50% url(/shri2025-task/assets/logo.svg);
     background-size: contain;
 }
 
@@ -12486,7 +12486,7 @@ html, body {
     height: 100%;
     margin: 0 0 0 auto;
     padding: 0;
-    background: 50% 50% no-repeat transparent url(/assets/icon_list_m@1x.svg);
+    background: 50% 50% no-repeat transparent url(/shri2025-task/assets/icon_list_m@1x.svg);
     border: none;
     border-radius: 0;
     appearance: none;
@@ -12645,7 +12645,7 @@ html, body {
     font-size: 0.8125rem;
     font-family: inherit;
     font-weight: bold;
-    background: no-repeat calc(100% - 1rem) 50% #FFD93E url(/assets/arrow-down.svg);
+    background: no-repeat calc(100% - 1rem) 50% #FFD93E url(/shri2025-task/assets/arrow-down.svg);
     appearance: none;
 }
 
@@ -12697,7 +12697,7 @@ html, body {
     display: flex;
     gap: 0.9375rem;
     height: 20.6875rem;
-    background: no-repeat 50% 50% url(/assets/bg@2x.png);
+    background: no-repeat 50% 50% url(/shri2025-task/assets/bg@2x.png);
     /*background-size: cover;*/
     background-size: 1260px;
     border-radius: 1.25rem;
@@ -12813,7 +12813,7 @@ html, body {
 }
 
 .hero-dashboard__icon_rain {
-    background-image: url(/assets/cloud-drizzle.svg);
+    background-image: url(/shri2025-task/assets/cloud-drizzle.svg);
 }
 
 .hero-dashboard__schedule {
@@ -12881,23 +12881,23 @@ html, body {
 }
 
 .event__icon_temp {
-    background-image: url(/assets/icon_temperature.svg);
+    background-image: url(/shri2025-task/assets/icon_temperature.svg);
 }
 
 .event__icon_temp2 {
-    background-image: url(/assets/icon_temperature_2.svg);
+    background-image: url(/shri2025-task/assets/icon_temperature_2.svg);
 }
 
 .event__icon_light {
-    background-image: url(/assets/icon_sun.svg);
+    background-image: url(/shri2025-task/assets/icon_sun.svg);
 }
 
 .event__icon_light2 {
-    background-image: url(/assets/icon_sun_2.svg);
+    background-image: url(/shri2025-task/assets/icon_sun_2.svg);
 }
 
 .event__icon_schedule {
-    background-image: url(/assets/icon_scheduled.svg);
+    background-image: url(/shri2025-task/assets/icon_scheduled.svg);
 }
 
 .event__title {
@@ -12966,7 +12966,7 @@ html, body {
     right: 0;
     width: 18px;
     bottom: 10px;
-    background: no-repeat 50% 50% url(/assets/arrow-left.png);
+    background: no-repeat 50% 50% url(/shri2025-task/assets/arrow-left.png);
     transform: rotate(180deg);
     cursor: pointer;
 }
@@ -13038,7 +13038,7 @@ html, body {
     font-family: 'Lato';
     font-style: normal;
     font-weight: 400;
-    src: url(/assets/lato.woff2) format('woff2');
+    src: url(/shri2025-task/assets/lato.woff2) format('woff2');
     unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
